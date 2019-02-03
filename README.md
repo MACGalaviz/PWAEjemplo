@@ -1,3 +1,11 @@
+## NOTE:
+Im only trying to learnd about this type of aplication and practice git/github.
+
+All i use is in [Tu primera Progressive Web App ](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es)
+
+Thanks for this chance and for your work [Pete LePage](https://developers.google.com/web/resources/contributors/petelepage?hl=es).
+:+1:
+
 # Your first Progressive Web App Code Lab
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
